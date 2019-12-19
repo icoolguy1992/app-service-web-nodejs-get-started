@@ -1,5 +1,5 @@
 ---
-services: app-service\web, app-service
+services: app-service\web, app-service this is what doing 
 platforms: node
 author: cephalin
 ---
