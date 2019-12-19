@@ -1,5 +1,5 @@
 ---
-services: app-service\web, app-service this is what doing 
+services: app-service\web, app-service this is what doing\ this is a test commit 
 platforms: node
 author: cephalin
 ---
